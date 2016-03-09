@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[x e r o s i x]]></title>
         <description><![CDATA[x e r o s i x]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/xerosix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 05:48:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 05:48:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/xerosix/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce20df9e-de54-4815-ad9d-9cc670927db5.jpg">]]></description>
-            <link>undefinedc8c865ae-8bb8-49dd-a43a-4b2232904a97/index.html</link>
+            <link>https://thegrid.ai/xerosix/c8c865ae-8bb8-49dd-a43a-4b2232904a97/index.html</link>
             <guid isPermaLink="false">c8c865ae-8bb8-49dd-a43a-4b2232904a97</guid>
-            <pubDate>Wed, 09 Mar 2016 05:47:28 GMT</pubDate>
+            <pubDate>Wed, 09 Mar 2016 05:47:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
