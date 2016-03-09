@@ -1,0 +1,28 @@
+name: xerosix
+favicon: null
+layout_spectrum: 0.2893404683563858
+typography_spectrum: 0.26432855403982103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.14627612638287246
+  lightness: 0.8791533024050295
+  saturation: 0.7558725045528263
+  rhythmicContrast: 0.06348256324417889
+purpose: []
